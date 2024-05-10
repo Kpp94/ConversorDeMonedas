@@ -31,7 +31,7 @@ public class Principal {
                 opcion = lectura.nextInt();
 
                 if (opcion > 8 || opcion < 1) {
-                    System.out.println("Opción no válida. Por favor, ingrese un opción del 1 al 8.");
+                    System.out.println("Opción no válida. Por favor, ingrese una opción del 1 al 8.");
                     continue;
                 }
 
